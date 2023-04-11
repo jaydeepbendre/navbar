@@ -1,0 +1,118 @@
+
+.skypebody{
+    background-color:rgb(241,241,244) ;
+    height: 100vh;
+    margin-top: 0;
+}
+
+
+.logo img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 25px;
+    margin-top: 180px;
+}
+
+.sbox1{
+    background-color: white;
+    padding: 24px;
+    margin: auto;
+    width: 440px;
+    height: 338px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.05) 0px 3px 6px;
+}
+
+
+.signin{
+    font-size: 24px;
+    font-weight: 600;
+    color: #1b1b1b;
+    margin-top: 15px;
+}
+
+
+.sbox1 input{
+    border: none;
+    border-bottom: 1px solid rgb(0, 0, 0);
+    width: 100%;
+    font-size: medium;
+    padding: 8px 0px;
+    outline: none;
+}
+.sbox1 :nth-child(3){
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+
+.sbox1 a{
+    color: #0067B8;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.sbox1 a:hover{
+    color: #585858;
+    text-decoration: underline;
+
+}
+.key img{
+    position: relative;
+    top: 4px;
+    left: 2px;
+}
+
+.noac{
+    font-size: 13px;
+    margin: 15px 0px;
+}
+
+
+.button input{
+    background-color: #0067b8;
+    color: white;
+    border: none;
+    width: 108px;
+    height: 32px;
+    padding: 4px 12px;
+    float:right;
+    cursor: pointer;
+}
+
+.button input:hover{
+    background-color: #015fa7;
+
+}
+
+.sbox2{
+    display: flex;
+    background-color: white;
+    margin: auto;
+    padding: 8px 24px;
+    margin-top: 20px;
+    width: 440px;
+    height: 48px;
+    cursor: pointer;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.05) 0px 3px 6px;
+}
+
+.sbox2 img{
+    width: 32px;
+    height: 32px;
+
+}
+
+.sigh{
+  margin: auto;
+ width: 100%;
+  text-align: left;
+  padding: 0px 8px;
+}
+
+.sbox2:hover{
+    background-color: #f0f0f0;
+}
+
+
