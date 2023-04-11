@@ -1,0 +1,18 @@
+.homebody {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3rem 35rem;
+    background-color: rgb(41, 40, 40);
+    color: white;
+    height: 100vh;
+
+}
+
+p {
+    text-align: center;
+}
+
+ol{
+    margin-top: 2rem;
+}

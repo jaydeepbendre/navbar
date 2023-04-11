@@ -1,6 +1,6 @@
 import React from "react";
 import './navbar.css'
-import { Link, NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 
 const Navbar = () => {
@@ -9,7 +9,7 @@ const Navbar = () => {
         <div className="navbar">
             <ul>
                 <NavLink to="/"><li> Home </li></NavLink>
-                <NavLink to="/instagram"><li> instagram </li></NavLink>
+                <NavLink to="/instagram"><li> Instagram </li></NavLink>
                 <NavLink to="/github"><li> Github </li></NavLink>
                 <NavLink to="/skype"><li> Skype </li></NavLink>
                 <NavLink to="/flipkart"><li> Flipkart </li></NavLink>
