@@ -8,12 +8,12 @@ const Navbar = () => {
         <>
         <div className="navbar">
             <ul>
-                <NavLink to="/"><li> Home </li></NavLink>
-                <NavLink to="/instagram"><li> Instagram </li></NavLink>
-                <NavLink to="/github"><li> Github </li></NavLink>
-                <NavLink to="/skype"><li> Skype </li></NavLink>
-                <NavLink to="/flipkart"><li> Flipkart </li></NavLink>
-                <NavLink to="/Netflix"><li> Netflix</li></NavLink>
+                <NavLink to="/"><li class="item"> Home </li></NavLink>
+                <NavLink to="/instagram"><li class="item"> Instagram </li></NavLink>
+                <NavLink to="/github"><li class="item"> Github </li></NavLink>
+                <NavLink to="/skype"><li class="item"> Skype </li></NavLink>
+                <NavLink to="/flipkart"><li class="item"> Flipkart </li></NavLink>
+                <NavLink to="/Netflix"><li class="item"> Netflix</li></NavLink>
 
 
             </ul>
