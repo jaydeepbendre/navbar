@@ -1,9 +1,18 @@
 
 .netflixbody{
-    background-image:url("./Assets/bg.jpg" );
+    background-color: rgba(0, 0, 0, 0.541);
     height: 100vh;
     width: 100vw;
 }
+
+.black{
+    background-image:url("./Assets/bg.jpg" );
+
+
+}
+
+
+
 .netflixlogo{
     width: 150px;
 }
@@ -94,7 +103,7 @@ h1
 
 .checkboxblock> a{
     
-    color: #333333;
+    color: #ffffff;
     text-decoration: none;
     cursor: pointer;
 }
@@ -104,6 +113,6 @@ a:hover{
 
 .moreinfo{
     font-size: 13px;
-    color: #8c8c8c;
+    color: #c9c9c9;
     font-size: 13px;
 }

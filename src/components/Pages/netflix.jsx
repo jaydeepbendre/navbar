@@ -4,6 +4,7 @@ import NetflixHLogo from './Assets/NetflixHLogo.png'
 
 function Netflix() {
     return (
+        <div class="black"> 
         <div className="netflixbody">
 
             <div class="logo">
@@ -42,6 +43,7 @@ function Netflix() {
                 </div>
 
             </div>
+        </div>
         </div>
 
     );
