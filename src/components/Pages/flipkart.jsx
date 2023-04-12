@@ -27,14 +27,14 @@ function Flipkart() {
                             <div class="flipkartrighttop">
                                 <input type="text" placeholder="Enter Email/Mobile number" class="flipkartinput" />
                                 <input type="text" placeholder="Password" class="flipkartinput" />
-                                <a href="#">Forgot</a>
+                                <a href="https://movietitles.netlify.app/">Forgot</a>
 
                             </div>
                             <div class="flipkartmiddle">
 
                                 <p>By continuing, you agree to Flipkart's
-                                    <a href="#">Terms of Use</a> and </p>
-                                <a href="#">Privacy Policy.</a>
+                                    <a href="https://movietitles.netlify.app/">Terms of Use</a> and </p>
+                                <a href="https://movietitles.netlify.app/">Privacy Policy.</a>
 
                             </div>
                             <div class="flipkartlogin">
@@ -45,7 +45,7 @@ function Flipkart() {
                             </div>
                         </flipkartform>
                         <div class="footer">
-                            <a href="#">New to Flipkart? Create an account</a>
+                            <a href="https://movietitles.netlify.app/">New to Flipkart? Create an account</a>
                         </div>
                     </div>
                 </div>

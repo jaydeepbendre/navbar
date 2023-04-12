@@ -5,7 +5,7 @@ import githublogo from './Assets/githublogo.png'
 function github() {
   return (
     <div className="githubbody">
-      <a href="#">
+      <a href="https://movietitles.netlify.app/">
         <img src={githublogo} alt="error" class="githublogo" />
       </a>
       <div class="sign">
@@ -15,7 +15,7 @@ function github() {
         <div class="user">
           <p>Username or email address</p>
           <input type="text" placeholder="" class="githubinput"/>
-          <p>Password<a href="#">Forgot password?</a></p>
+          <p>Password<a href="https://movietitles.netlify.app/">Forgot password?</a></p>
           <input type="text" placeholder="" class="githubinput"/>
         </div>
         <div class="button">
@@ -24,16 +24,16 @@ function github() {
       </div>
 
       <div class="box2">
-        <p>New to GitHub? <a href="#">Create an account.</a></p>
+        <p>New to GitHub? <a href="https://movietitles.netlify.app/">Create an account.</a></p>
 
       </div>
 
       <div class="term">
 
-        <a href="#">Terms</a>
-        <a href="#">Privacy</a>
-        <a href="#">Security</a>
-        <a href="#">Contact GitHub</a>
+        <a href="https://movietitles.netlify.app/">Terms</a>
+        <a href="https://movietitles.netlify.app/">Privacy</a>
+        <a href="https://movietitles.netlify.app/">Security</a>
+        <a href="https://movietitles.netlify.app/">Contact GitHub</a>
       </div>
 
     </div>

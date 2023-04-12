@@ -34,22 +34,22 @@ function Instagram() {
 
               <div className="fblog">
                 <img src={fb} alt="fblogo" />
-                <a style={{ fontWeight: 500 }} href="#">Log int with Facebook</a>
+                <a style={{ fontWeight: 500 }} href="https://movietitles.netlify.app/">Log int with Facebook</a>
               </div>
               <br />
-              <a href="#">Forgot password?</a>
+              <a href="https://movietitles.netlify.app/">Forgot password?</a>
             </div>
           </div>
           <div className="box2">
-            <p>Don't have an account? <a href="#">Sign up</a></p>
+            <p>Don't have an account? <a href="https://movietitles.netlify.app/">Sign up</a></p>
           </div>
 
           <div className="bottom">
             <p>Get the app.</p>
-            <a href="#">
+            <a href="https://movietitles.netlify.app/">
               <img src={play} alt="no" />
             </a>
-            <a href="#">
+            <a href="https://movietitles.netlify.app/">
               <img src={micro} alt="no" />
             </a>
           </div>
@@ -58,18 +58,18 @@ function Instagram() {
       </div>
       <div className="footer">
         <div className="line">
-          <a href="#"> Meta</a>
-          <a href="#"> About</a>
-          <a href="#"> Blog</a>
-          <a href="#"> Jobs</a>
-          <a href="#"> Help</a>
-          <a href="#"> API</a>
-          <a href="#"> Privacy</a>
-          <a href="#"> Terms</a>
-          <a href="#"> Top Accounts</a>
-          <a href="#"> Locations</a>
-          <a href="#"> Instagram Lite</a>
-          <a href="#"> Contact Uploading & Non-Users</a>
+          <a href="https://movietitles.netlify.app/"> Meta</a>
+          <a href="https://movietitles.netlify.app/"> About</a>
+          <a href="https://movietitles.netlify.app/"> Blog</a>
+          <a href="https://movietitles.netlify.app/"> Jobs</a>
+          <a href="https://movietitles.netlify.app/"> Help</a>
+          <a href="https://movietitles.netlify.app/"> API</a>
+          <a href="https://movietitles.netlify.app/"> Privacy</a>
+          <a href="https://movietitles.netlify.app/"> Terms</a>
+          <a href="https://movietitles.netlify.app/"> Top Accounts</a>
+          <a href="https://movietitles.netlify.app/"> Locations</a>
+          <a href="https://movietitles.netlify.app/"> Instagram Lite</a>
+          <a href="https://movietitles.netlify.app/"> Contact Uploading & Non-Users</a>
         </div>
         <div className="lan">
           <select name="Language" id="Language">

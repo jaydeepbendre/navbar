@@ -21,11 +21,11 @@ function Skype() {
                 <p>to continue to Skype</p>
                 <input type="text" placeholder="Email, phone, or Skype" />
                 <div class="noac">
-                    <p>No account? <a href="#"> Create one!</a></p>
+                    <p>No account? <a href="https://movietitles.netlify.app/"> Create one!</a></p>
                 </div>
                 <div class="key">
-                    <a href="#">Sign in with a security key </a>
-                    <a href="#"><img src={que} alt="error" /></a>
+                    <a href="https://movietitles.netlify.app/">Sign in with a security key </a>
+                    <a href="https://movietitles.netlify.app/"><img src={que} alt="error" /></a>
                 </div>
                 <div class="button">
                     <input type="submit" value="Next" />
